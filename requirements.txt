@@ -1,0 +1,1 @@
+discord-ext-slash>=0.8.1
